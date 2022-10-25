@@ -1,3 +1,0 @@
-﻿  exam.cpp
-E:\OneDrive\C++\exam\exam\exam.cpp(17,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  exam.vcxproj -> E:\OneDrive\C++\exam\Debug\exam.exe

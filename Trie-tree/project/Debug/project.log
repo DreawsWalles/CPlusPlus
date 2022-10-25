@@ -1,8 +1,0 @@
-﻿  node.cpp
-E:\OneDrive - ВГУ\C++(алгосы)\project_3.14(trie-дерево)\project\project\node.cpp(83,12): warning C4018: <: несоответствие типов со знаком и без знака
-  project.cpp
-  trie_tree.cpp
-  Создание кода...
-E:\OneDrive - ВГУ\C++(алгосы)\project_3.14(trie-дерево)\project\project\project.cpp(119): warning C4715: AddElement: значение возвращается не при всех путях выполнения
-E:\OneDrive - ВГУ\C++(алгосы)\project_3.14(trie-дерево)\project\project\project.cpp(156): warning C4715: mainTask: значение возвращается не при всех путях выполнения
-  project.vcxproj -> E:\OneDrive - ВГУ\C++(алгосы)\project_3.14(trie-дерево)\project\Debug\project.exe

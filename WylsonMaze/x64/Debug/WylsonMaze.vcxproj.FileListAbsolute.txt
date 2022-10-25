@@ -1,2 +1,0 @@
-D:\OneDrive - ВГУ\C++\WylsonMaze\x64\Debug\WylsonMaze.exe
-D:\OneDrive - ВГУ\C++\WylsonMaze\WylsonMaze\x64\Debug\WylsonMaze.exe

@@ -1,7 +1,0 @@
-﻿  Menu.cpp
-E:\OneDrive - ВГУ\C++\AbstrucktClassFigure\project\HelpClasses.h(106,2): warning C4091: static : пропускается слева от "HelpClasses", когда ни одна переменная не объявлена
-  project.cpp
-E:\OneDrive - ВГУ\C++\AbstrucktClassFigure\project\HelpClasses.h(106,2): warning C4091: static : пропускается слева от "HelpClasses", когда ни одна переменная не объявлена
-  Rectangle.cpp
-  Создание кода...
-  project.vcxproj -> E:\OneDrive - ВГУ\C++\AbstrucktClassFigure\project\Debug\project.exe

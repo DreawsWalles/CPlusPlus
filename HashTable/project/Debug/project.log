@@ -1,7 +1,0 @@
-﻿  hashTable.cpp
-  project.cpp
-E:\OneDrive - ВГУ\C++(алгосы)\zadacha_2.2.14a\project\project\project.cpp(14,20): warning C4018: <: несоответствие типов со знаком и без знака
-E:\OneDrive - ВГУ\C++(алгосы)\zadacha_2.2.14a\project\project\project.cpp(26,20): warning C4018: <: несоответствие типов со знаком и без знака
-E:\OneDrive - ВГУ\C++(алгосы)\zadacha_2.2.14a\project\project\project.cpp(38,20): warning C4018: <: несоответствие типов со знаком и без знака
-  Создание кода...
-  project.vcxproj -> E:\OneDrive - ВГУ\C++(алгосы)\zadacha_2.2.14a\project\Debug\project.exe

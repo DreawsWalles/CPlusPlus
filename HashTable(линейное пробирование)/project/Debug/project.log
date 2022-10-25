@@ -1,0 +1,5 @@
+﻿  hashTable.cpp
+  project.cpp
+  Создание кода...
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+E:\OneDrive\C++(алгосы)\zadacha_2.2.14a (линейное пробирование)\project\Debug\project.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

@@ -1,0 +1,14 @@
+﻿  disciplines.cpp
+  functions.cpp
+  help.cpp
+  Journal.cpp
+  menu.cpp
+  project.cpp
+  Record.cpp
+  Создание кода...
+E:\OneDrive\C++\project_6\project\project\functions.cpp(422): warning C4715: Sort_curs: значение возвращается не при всех путях выполнения
+E:\OneDrive\C++\project_6\project\project\functions.cpp(449): warning C4715: Sort_group: значение возвращается не при всех путях выполнения
+E:\OneDrive\C++\project_6\project\project\functions.cpp(471): warning C4715: Sort_dis: значение возвращается не при всех путях выполнения
+E:\OneDrive\C++\project_6\project\project\functions.cpp(563): warning C4715: Sort_mark: значение возвращается не при всех путях выполнения
+E:\OneDrive\C++\project_6\project\project\functions.cpp(536): warning C4715: Sort_number: значение возвращается не при всех путях выполнения
+  project.vcxproj -> E:\OneDrive\C++\project_6\project\Debug\project.exe

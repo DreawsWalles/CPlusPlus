@@ -1,4 +1,0 @@
-﻿  project.cpp
-E:\OneDrive\C++\project_2\project\project.cpp(106,3): warning C4551: в вызове функции отсутствует список аргументов
-E:\OneDrive\C++\project_2\project\project.cpp(110,6): warning C4102: input: неиспользованная метка
-  project.vcxproj -> E:\OneDrive\C++\project_2\project\Debug\project.exe

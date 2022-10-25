@@ -1,6 +1,0 @@
-﻿  procedure.cpp
-E:\OneDrive\C++(алгосы)\zadacha_1(14)\zadacha_1(14)\procedure.cpp(157,3): warning C4551: в вызове функции отсутствует список аргументов
-  zadacha_1(14).cpp
-E:\OneDrive\C++(алгосы)\zadacha_1(14)\zadacha_1(14)\zadacha_1(14).cpp(62,6): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
-  Создание кода...
-  zadacha_1(14).vcxproj -> E:\OneDrive\C++(алгосы)\zadacha_1(14)\Debug\zadacha_1(14).exe

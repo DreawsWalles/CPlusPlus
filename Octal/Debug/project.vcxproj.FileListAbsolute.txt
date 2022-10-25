@@ -1,2 +1,0 @@
-E:\OneDrive\C++\project_2\project\Debug\project.exe
-E:\OneDrive\C++\project_2\project\Debug\project.pdb
